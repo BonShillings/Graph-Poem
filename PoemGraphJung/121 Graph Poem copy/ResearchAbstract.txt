@@ -1,0 +1,4 @@
+
+Research Abstract
+
+	Graph-Poetry is a multi-disciplinary project. This project encompasses graph-theory mathematical concepts, Natural Language Processing (NLP) computation, and poetics. The graph-poem is a visual representation for the various connections and relations that are found amongst poems.  The graph contains weighted edges that are representative of the various connections between vertices, which are poems. Each poem's individual content can also be represented as a graph of its concepts and terms. The graph-poem serves as an analytical tool for studying the intersection of the concepts and terms found commonly among vertices. The aim of our project is both to create an interactive visual representation of the graph-poem, and to create (NLP) algorithms that can extract common concepts and terms from poems in order to expand the graph.

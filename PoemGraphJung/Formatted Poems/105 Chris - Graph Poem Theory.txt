@@ -1,0 +1,12 @@
+author: Chris  title: The_Graph_Poem_Theory
+
+In mathematics and computer science, graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A "graph" in this context is made up of “vertices” or “nodes” and lines called edges that connect them. 
+
+A graph may be undirected, meaning that there is no distinction between the two vertices associated with each edge, or its edges may be directed from one vertex to another; see graph (mathematics) for more detailed definitions and for other variations in the types of graph that are commonly considered. 
+
+The graph poem is directed in as much as it is considered in its “chronological” development, but undirected when studied as a connected graph (and therefore) spannable by a tree and/or when its evolution to infinity is looked into by following the locally-finite-graph’s ends (depending on the poem/vertex picked as the spanning tree’s root) revealing the various specific prophecies in the graph poem (see T2).
+
+Graphs are one of the prime objects of study in discrete mathematics.
+The graphs studied in graph theory should not be confused with the graphs of functions or other kinds of graphs.
+
+

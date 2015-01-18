@@ -1,0 +1,25 @@
+author: Chris title: Spanning_Trees_of_Graph_Poems
+
+EVERY CONNECTED GRAPH CONTAINS A SPANNING TREE
+
+The GRAPH POEM, as a FINITE CONNECTED graph growing to INFINITY, is SPANNABLE by TREES that grow INFINITE
+
+EXPANSION of the GRAPH POEM: a given VERTEX (a poem) is connected to a new one, which is a found poem that shares predefined features with the former; a THIRD VERTEX (poem) is then produced as a variation of / solo for the previous two ones
+
+end in an infinite graph—equivalence class of rays which for any finite S all have a tail in a component of G-S
+
+TREE ENDS—two rays are equivalent in a tree if and only if they share a tail
+
+STUDYING the ENDS of the GRAPH POEM is studying the ENDS of the TREE that spans it; 
+
+Since ANY VERTEX may be chosen to be the ROOT of the spanning tree,
+
+Picking a certain poem (vertex) to be the ROOT shall reveal the 
+
+PROPHETIC side 
+
+of the GRAPH POEM: 
+
+the TREE ENDS show us the evolution of poetry into infinity should we consider a certain poem the root of the TREE of POETRY composed by a virtually infinite community of poets, both human and/or electronic
+
+

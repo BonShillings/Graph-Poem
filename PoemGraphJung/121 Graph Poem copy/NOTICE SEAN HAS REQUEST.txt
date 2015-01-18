@@ -1,0 +1,4 @@
+Hi everyone, I have created a working NLP text analyzer. I would love it if you could upload some of
+ your work to this folder. I will create a graph of the similarities between our works of art. The work 
+must be uploaded in .txt format. This is the same format that the research abstract and this notice has
+ been uploaded in. .docx  (microsoft word) files can be edited to .txt using Microsoft Word, "TextEdit", 'notepad", and other basic writing software.
